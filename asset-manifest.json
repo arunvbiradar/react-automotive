@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-automotive/static/css/main.f573944d.chunk.css",
+    "main.js": "/react-automotive/static/js/main.8345dc5b.chunk.js",
+    "main.js.map": "/react-automotive/static/js/main.8345dc5b.chunk.js.map",
+    "runtime-main.js": "/react-automotive/static/js/runtime-main.909a7b60.js",
+    "runtime-main.js.map": "/react-automotive/static/js/runtime-main.909a7b60.js.map",
+    "static/css/2.d7a94725.chunk.css": "/react-automotive/static/css/2.d7a94725.chunk.css",
+    "static/js/2.acc68719.chunk.js": "/react-automotive/static/js/2.acc68719.chunk.js",
+    "static/js/2.acc68719.chunk.js.map": "/react-automotive/static/js/2.acc68719.chunk.js.map",
+    "index.html": "/react-automotive/index.html",
+    "precache-manifest.2f1be67e2fa01bf4c98cc0cd4f307774.js": "/react-automotive/precache-manifest.2f1be67e2fa01bf4c98cc0cd4f307774.js",
+    "service-worker.js": "/react-automotive/service-worker.js",
+    "static/css/2.d7a94725.chunk.css.map": "/react-automotive/static/css/2.d7a94725.chunk.css.map",
+    "static/css/main.f573944d.chunk.css.map": "/react-automotive/static/css/main.f573944d.chunk.css.map"
+  }
+}
