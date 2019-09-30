@@ -1,0 +1,17 @@
+@import './variables.scss';
+
+body {
+    background-color: $gray-light;
+}
+.main-content {
+    min-height: 48vmin;
+}
+section {
+    padding: 2rem 0;
+    .title {
+        margin-bottom: 2rem;
+    }
+}
+.card + .card {
+    margin-top: 2em;
+}

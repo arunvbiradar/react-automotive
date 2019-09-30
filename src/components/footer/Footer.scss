@@ -1,0 +1,16 @@
+
+@import './../common/styles/variables.scss';
+
+footer {
+    margin-top: 2rem;
+    border-top: .1rem solid $black;
+    .content {
+        padding-top: 1rem;
+    }
+}
+.copyright {
+    color: $gray-light;
+    padding: 1rem 0;
+    text-align: center;
+    background-color: $black;
+}
